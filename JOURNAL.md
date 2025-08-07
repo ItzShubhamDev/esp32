@@ -3,7 +3,7 @@ Title: "ESP 32 Board"
 Author: "Shubham"
 Description: "A board for ESP32 S3"
 Created On: "5/8/2025"
-Total Time: 12h
+Total Time: 18h
 ---
 
 # August 5th: Made the USB-C Input and Voltage regulator!
@@ -21,3 +21,18 @@ Did a research on safe pins to expose of the board, added Red LED, RGB LED, SD C
 <img width="1190" height="845" alt="SCH_Schematic1_1-P1_2025-08-07" src="https://github.com/user-attachments/assets/69a48776-d44f-4575-94c9-e10e7659a804" />
 
 **Time spent: 8h**
+
+# August 7th: Modified the schematic and completed 70% routing!
+
+Modified the schematic to make some adjustments to the pins connections and added traces for almost every connection except for the GND and 2-3 more remaining.
+<img width="1190" height="845" alt="SCH_Schematic1_1-P1_2025-08-08" src="https://github.com/user-attachments/assets/e36264ce-3eeb-49eb-912d-f8f379f2f3fc" />
+<img width="563" height="662" alt="Screenshot 2025-08-07 120754" src="https://github.com/user-attachments/assets/28f4ed77-c2a1-4e54-bb08-329e87d943d9" />
+<img width="413" height="695" alt="Screenshot 2025-08-07 140605" src="https://github.com/user-attachments/assets/312f7046-8762-4613-a097-42434b636c08" />
+<img width="386" height="673" alt="Screenshot 2025-08-07 155555" src="https://github.com/user-attachments/assets/2a65d6b6-ba9d-4a4e-9144-a02a11c1028e" />
+<img width="292" height="545" alt="Screenshot 2025-08-07 231847" src="https://github.com/user-attachments/assets/7a9d1ebf-a7b7-472e-b655-671cc8a05e31" />
+<img width="319" height="584" alt="Screenshot 2025-08-07 160420" src="https://github.com/user-attachments/assets/36de6b7a-76eb-4738-bc33-e6fdf901bb7a" />
+<img width="495" height="748" alt="Screenshot 2025-08-08 022658" src="https://github.com/user-attachments/assets/72ea1a5c-c7f3-491b-b496-651d9a16b676" />
+
+
+**Time spent: 6h**
+
