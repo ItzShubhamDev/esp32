@@ -3,7 +3,7 @@ Title: "ESP 32 Board"
 Author: "Shubham"
 Description: "A board for ESP32 S3"
 Created On: "5/8/2025"
-Total Time: 18h
+Total Time: 24h
 ---
 
 # August 5th: Made the USB-C Input and Voltage regulator!
@@ -33,6 +33,14 @@ Modified the schematic to make some adjustments to the pins connections and adde
 <img width="319" height="584" alt="Screenshot 2025-08-07 160420" src="https://github.com/user-attachments/assets/36de6b7a-76eb-4738-bc33-e6fdf901bb7a" />
 <img width="495" height="748" alt="Screenshot 2025-08-08 022658" src="https://github.com/user-attachments/assets/72ea1a5c-c7f3-491b-b496-651d9a16b676" />
 
-
 **Time spent: 6h**
 
+# August 8th: Completed the PCB!
+
+After completing the PCB I went through a final check and the microSD reader wasn't avaiable, so had to replace the microSD reader in schematic and redo that section, also I fixed the wrong pins of the left side of the board and added pin names on the bottom layer.
+<img width="677" height="388" alt="Screenshot 2025-08-08 231342" src="https://github.com/user-attachments/assets/688b5f09-bbac-4149-b458-7edbe03792f0" />
+<img width="369" height="716" alt="Screenshot 2025-08-08 231325" src="https://github.com/user-attachments/assets/d8aaa93e-fe53-468b-b5fd-dc9d01df4fb7" />
+<img width="370" height="690" alt="Screenshot 2025-08-08 231411" src="https://github.com/user-attachments/assets/1b368363-f817-4687-9f54-669c50d30dbc" />
+<img width="1098" height="591" alt="Screenshot 2025-08-08 234542" src="https://github.com/user-attachments/assets/8d972161-77f9-4ba6-a3da-a7c909ccad66" />
+
+**Time spent: 6h**
