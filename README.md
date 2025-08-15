@@ -1,15 +1,16 @@
 # ESP32 Board
-A custom ESP32-S3 board utilizing USB-C and exposing a lots of pins. 
+A custom ESP32-S3 board utilizing USB-C and exposing a lots of pins.
+<img width="2160" height="1057" alt="3D_PCB1_2025-08-15 (3)" src="https://github.com/user-attachments/assets/a87b26d2-5dc3-4301-a51f-99900480403e" />
 
 ## Schematic
-<img width="1412" height="998" alt="Screenshot 2025-08-13 171401" src="https://github.com/user-attachments/assets/2ab229f5-aa9d-4338-9608-c1e38b654a11" />
+<img width="1190" height="845" alt="SCH_Schematic1_1-P1_2025-08-13" src="https://github.com/user-attachments/assets/e954a3b4-1bb0-4497-95c4-80a1dd06b5d5" />
 
 ## PCB
-<img width="375" height="729" alt="Screenshot 2025-08-13 172337" src="https://github.com/user-attachments/assets/a6f37481-f447-4b7f-921c-bab2ce197d17" />
-<img width="397" height="731" alt="Screenshot 2025-08-13 172349" src="https://github.com/user-attachments/assets/11d78390-e4fd-42ac-ad4b-a634d150126a" />
-<img width="370" height="741" alt="Screenshot 2025-08-13 171653" src="https://github.com/user-attachments/assets/f592a4d7-7dc4-4c32-a305-74bef00a9322" />
-<img width="384" height="753" alt="Screenshot 2025-08-13 171703" src="https://github.com/user-attachments/assets/0e105238-b905-44e1-8274-ed94bcdd653b" />
+<img width="370" height="741" alt="Screenshot 2025-08-13 171653" src="https://github.com/user-attachments/assets/b5452fa7-cb17-40c1-9216-dbf496e4bf09" />
+<img width="384" height="753" alt="Screenshot 2025-08-13 171703" src="https://github.com/user-attachments/assets/e95f2adc-94e5-47b9-b784-34bf62079dae" />
+<img width="375" height="729" alt="Screenshot 2025-08-13 172337" src="https://github.com/user-attachments/assets/ba3e3a1d-20b7-4ab2-90cd-982a74988f5a" />
+<img width="397" height="731" alt="Screenshot 2025-08-13 172349" src="https://github.com/user-attachments/assets/c2563ec9-2ff2-4793-af26-2c893e35daa5" />
 
 ## 3D
-<img width="395" height="775" alt="image" src="https://github.com/user-attachments/assets/e9898eb6-170d-45d5-8797-4baded12107d" />
-<img width="391" height="769" alt="image" src="https://github.com/user-attachments/assets/37239504-e2a8-455b-a598-d97e526911ad" />
+<img width="2005" height="4096" alt="3D_PCB1_2025-08-15 (1)" src="https://github.com/user-attachments/assets/910f9149-6985-4a5d-88fd-9f1434df950a" />
+<img width="2005" height="4096" alt="3D_PCB1_2025-08-15 (2)" src="https://github.com/user-attachments/assets/f98c8fc5-765c-4926-87a4-2f77818f6c4e" />
