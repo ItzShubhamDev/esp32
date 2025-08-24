@@ -44,3 +44,9 @@ After completing the PCB I went through a final check and the microSD reader was
 <img width="1098" height="591" alt="Screenshot 2025-08-08 234542" src="https://github.com/user-attachments/assets/8d972161-77f9-4ba6-a3da-a7c909ccad66" />
 
 **Time spent: 6h**
+
+# August 23rd: Replaced ESP32-S3-WROOM with ESP32-S3-IC
+
+After completing all the things, someone suggested me to use ICs instead of Wrooms to gain more knowledge about boards, chips and overall electronics.
+
+<img width="1197" height="847" alt="SCH_Schematic1_1-P1_2025-08-23" src="https://github.com/user-attachments/assets/0adcd4ae-20c3-4bdc-86a7-7944032113d7" />
