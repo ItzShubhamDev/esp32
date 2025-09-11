@@ -3,7 +3,7 @@ Title: "ESP 32 Board"
 Author: "Shubham"
 Description: "A board for ESP32 S3"
 Created On: "5/8/2025"
-Total Time: 24h
+Total Time: 30h
 ---
 
 # August 5th: Made the USB-C Input and Voltage regulator!
@@ -50,3 +50,13 @@ After completing the PCB I went through a final check and the microSD reader was
 After completing all the things, someone suggested me to use ICs instead of Wrooms to gain more knowledge about boards, chips and overall electronics.
 
 <img width="1197" height="847" alt="SCH_Schematic1_1-P1_2025-08-23" src="https://github.com/user-attachments/assets/0adcd4ae-20c3-4bdc-86a7-7944032113d7" />
+
+**Time spent: 2h**
+
+# September 11th: Completed the schematic with the new IC.
+
+I will be using ESP32-S3-PICO-1-N8R8, so made the schematic around that, the hardest part was Antenna, I had to read atleast 5 articles to get some info on the antennas.
+
+<img width="1197" height="845" alt="SCH_Schematic1_1-P1_2025-09-12" src="https://github.com/user-attachments/assets/a75fb6f4-c7f8-4260-8df0-512d80e16f0b" />
+
+**Time spent: 4h**
