@@ -3,7 +3,7 @@ Title: "ESP 32 Board"
 Author: "Shubham"
 Description: "A board for ESP32 S3"
 Created On: "5/8/2025"
-Total Time: 30h
+Total Time: 34h
 ---
 
 # August 5th: Made the USB-C Input and Voltage regulator!
@@ -60,3 +60,20 @@ I will be using ESP32-S3-PICO-1-N8R8, so made the schematic around that, the har
 <img width="1197" height="845" alt="SCH_Schematic1_1-P1_2025-09-12" src="https://github.com/user-attachments/assets/a75fb6f4-c7f8-4260-8df0-512d80e16f0b" />
 
 **Time spent: 4h**
+
+# September 13th: Completed the routing.
+
+Completed all the routing for the PCB.
+
+<img width="394" height="701" alt="Screenshot 2025-09-13 221410" src="https://github.com/user-attachments/assets/a39e504b-05ad-40a2-9f38-f272cf0bbeca" />
+
+**Time spent: 2h**
+
+# September 14th: Redid the routing.
+
+After completing the routing I realised that the 5V was going all way the down from the USBC which wasn't intentional and not like what I originally thought and the made the schematic for, so I unrouted everything, redid the schemtic with the new pins and repositioned chip and pins and did the routing again.
+
+<img width="430" height="729" alt="Screenshot 2025-09-14 104714" src="https://github.com/user-attachments/assets/49dfa4e5-7c37-435c-bb6e-12b8b84ce268" />
+<img width="837" height="506" alt="Screenshot 2025-09-14 111737" src="https://github.com/user-attachments/assets/65fdd64d-32cc-447c-8ee9-76e017c8d709" />
+
+**Time spent: 2h**
