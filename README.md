@@ -1,16 +1,17 @@
 # ESP32 Board
 A custom ESP32-S3 board utilizing USB-C and exposing a lots of pins.
-<img width="2160" height="1057" alt="3D_PCB1_2025-08-15 (3)" src="https://github.com/user-attachments/assets/a87b26d2-5dc3-4301-a51f-99900480403e" />
+<img width="4096" height="1928" alt="3D_PCB1_2025-09-17 - Copy" src="https://github.com/user-attachments/assets/f955290b-6571-4984-8123-1c452dfaf840" />
 
 ## Schematic
-<img width="1190" height="845" alt="SCH_Schematic1_1-P1_2025-08-13" src="https://github.com/user-attachments/assets/e954a3b4-1bb0-4497-95c4-80a1dd06b5d5" />
+<img width="1197" height="845" alt="SCH_Schematic1_1-P1_2025-09-17" src="https://github.com/user-attachments/assets/cd940fa7-8082-403e-890a-8e2c976adb64" />
 
 ## PCB
-<img width="370" height="741" alt="Screenshot 2025-08-13 171653" src="https://github.com/user-attachments/assets/b5452fa7-cb17-40c1-9216-dbf496e4bf09" />
-<img width="384" height="753" alt="Screenshot 2025-08-13 171703" src="https://github.com/user-attachments/assets/e95f2adc-94e5-47b9-b784-34bf62079dae" />
-<img width="375" height="729" alt="Screenshot 2025-08-13 172337" src="https://github.com/user-attachments/assets/ba3e3a1d-20b7-4ab2-90cd-982a74988f5a" />
-<img width="397" height="731" alt="Screenshot 2025-08-13 172349" src="https://github.com/user-attachments/assets/c2563ec9-2ff2-4793-af26-2c893e35daa5" />
+<img width="337" height="666" alt="Screenshot 2025-09-17 005726" src="https://github.com/user-attachments/assets/467d0a5e-4f6d-45af-9399-12605a31aa22" />
+<img width="318" height="668" alt="Screenshot 2025-09-17 005738" src="https://github.com/user-attachments/assets/b3f6b952-85e8-4ff2-b145-7d4cbfa79e89" />
+<br />
+<img width="337" height="666" src="https://github.com/user-attachments/assets/7acd48f7-441c-4523-9ba1-d4d8c88205e2" />
+<img width="337" height="666" src="https://github.com/user-attachments/assets/c5d5d6a3-eb18-495e-9943-6519300a3054" />
 
 ## 3D
-<img width="2005" height="4096" alt="3D_PCB1_2025-08-15 (1)" src="https://github.com/user-attachments/assets/910f9149-6985-4a5d-88fd-9f1434df950a" />
-<img width="2005" height="4096" alt="3D_PCB1_2025-08-15 (2)" src="https://github.com/user-attachments/assets/f98c8fc5-765c-4926-87a4-2f77818f6c4e" />
+<img width="1928" height="4096" alt="3D_PCB1_2025-09-17" src="https://github.com/user-attachments/assets/a34a6765-ddfd-444b-9c3e-a86ff7d92565" />
+<img width="1928" height="4096" alt="3D_PCB1_2025-09-17-1" src="https://github.com/user-attachments/assets/afe394c4-a8ef-4db8-a716-e0c87fc17989" />
